@@ -1,0 +1,1 @@
+console.log([].slice.call(document.getElementsByClassName('userinput')).map(e => e.innerText).join('\n'))
